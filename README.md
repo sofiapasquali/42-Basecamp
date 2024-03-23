@@ -12,7 +12,7 @@
 
     Shell:          
     
-               c00 and c01 cover Shell commands, progressing from basic to advanced 
+               shell00 and shell01 cover Shell commands, progressing from basic to advanced 
                 commands in the command line interface, aimed at improving your proficiency 
                 and comfort level with terminal usage.
 
