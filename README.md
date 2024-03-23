@@ -25,7 +25,7 @@
 
     Self-learning and Colaboration:
     
-                 Self-learning is fundamental to 42`s peer-to-peer learning methodology, 
+                 Self-learning is fundamental to 42's peer-to-peer learning methodology, 
                  where traditional teachers are absent. The learning process revolves 
                  around searching, consulting classmates, and each student progressing 
                  at their individual pace while mutually supporting each other with their knowledge.
