@@ -42,7 +42,7 @@
                 a group of three members, selected randomly by the school's system, collaboratively 
                 develops a fully functional application. The primary challenge lies in balancing 
                 varying levels of knowledge among team members and establishing a cohesive work 
-                methodology that enables everyone to contribute effectively to the project.
+                methodology that enables everyone to contribute effectively.
                 
 ## Achievements
 
