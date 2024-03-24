@@ -1,5 +1,8 @@
 # 42-Basecamp
-42 School selection process. January 31st to February 19th, 2022
+January 31st to February 19th, 2022
+<p>20-day full-time selection process. Focused on intensive coding challenges, collaborative projects, peer evaluations and technical interviews to analyze candidates’ programming skills, problem-solving abilities and teamwork. 58 coding exercises, 2 bigger team projects and 2 tests in total were made and evaluated.
+
+<p>Status: Completed - successfully met all requirements and got accepted.</p>
 
 ### Hard Skills
 
